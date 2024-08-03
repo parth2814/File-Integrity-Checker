@@ -1,4 +1,4 @@
-Copy# File System Integrity Checker
+# File System Integrity Checker
 
 This Python-based tool monitors and reports changes in a specified directory structure. It creates a baseline of file states and compares the current state of the file system against this baseline to detect modifications, additions, or deletions.
 
